@@ -1,0 +1,35 @@
+{
+  "buddyInfos": [
+    {
+      "message": null,
+      "age": 22,
+      "name": "First Buddy",
+      "address": "University Center",
+      "phone_number": "613 426 8485",
+      "addressBook": null,
+      "id": 0,
+      "over18": true
+    },
+    {
+      "message": null,
+      "age": 22,
+      "name": "Second Buddy",
+      "address": "University Center",
+      "phone_number": "613 831 3161",
+      "addressBook": null,
+      "id": 0,
+      "over18": true
+    },
+    {
+      "message": null,
+      "age": 22,
+      "name": "First Buddy",
+      "address": "University Center",
+      "phone_number": "613 426 8485",
+      "addressBook": null,
+      "id": 0,
+      "over18": true
+    }
+  ],
+  "id": 1
+}

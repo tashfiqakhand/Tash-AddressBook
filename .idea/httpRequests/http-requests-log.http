@@ -1,0 +1,953 @@
+DELETE http://localhost:8080/address-books/1/buddyInfo/289
+Content-Type: application/json
+
+###
+
+POST http://localhost:8080/address-books/?id=1
+Content-Type: application/json
+
+{
+
+  "buddyInfos": [
+    {
+      "message": null,
+      "age": 22,
+      "name": "First Buddy",
+      "address": "University Center",
+      "phone_number": "613 426 8485",
+      "over18": false
+    },
+    {
+      "message": null,
+      "age": 22,
+      "name": "Second Buddy",
+      "address": "University Center",
+      "phone_number": "613 831 3161",
+      "over18": false
+    },
+    {
+      "message": null,
+      "age": 22,
+      "name": "3 Buddy",
+      "address": "University Center",
+      "phone_number": "613 426 8485",
+      "over18": false
+    },
+    {
+      "message": null,
+      "age": 22,
+      "name": "4 Buddy",
+      "address": "University Center",
+      "phone_number": "613 426 8485",
+      "over18": false
+    },
+    {
+      "message": null,
+      "age": 22,
+      "name": "5 Buddy",
+      "address": "University Center",
+      "phone_number": "613 426 8485",
+      "over18": false
+    }
+  ],
+
+  "id": 1
+
+}
+
+<> 2020-01-31T051011.200.json
+
+###
+
+DELETE http://localhost:8080/address-books/1/buddyInfo/284
+Content-Type: application/json
+
+###
+
+DELETE http://localhost:8080/address-books/1/buddyInfo/285
+Content-Type: application/json
+
+<> 2020-01-31T050956.500.json
+
+###
+
+POST http://localhost:8080/address-books/?id=1
+Content-Type: application/json
+
+{
+
+  "buddyInfos": [
+    {
+      "message": null,
+      "age": 22,
+      "name": "First Buddy",
+      "address": "University Center",
+      "phone_number": "613 426 8485",
+      "over18": false
+    },
+    {
+      "message": null,
+      "age": 22,
+      "name": "Second Buddy",
+      "address": "University Center",
+      "phone_number": "613 831 3161",
+      "over18": false
+    },
+    {
+      "message": null,
+      "age": 22,
+      "name": "3 Buddy",
+      "address": "University Center",
+      "phone_number": "613 426 8485",
+      "over18": false
+    },
+    {
+      "message": null,
+      "age": 22,
+      "name": "4 Buddy",
+      "address": "University Center",
+      "phone_number": "613 426 8485",
+      "over18": false
+    },
+    {
+      "message": null,
+      "age": 22,
+      "name": "5 Buddy",
+      "address": "University Center",
+      "phone_number": "613 426 8485",
+      "over18": false
+    }
+  ],
+
+  "id": 1
+
+}
+
+<> 2020-01-31T050949.200.json
+
+###
+
+DELETE http://localhost:8080/address-books/1/buddyInfo/279
+Content-Type: application/json
+
+###
+
+POST http://localhost:8080/address-books/?id=1
+Content-Type: application/json
+
+{
+
+  "buddyInfos": [
+    {
+      "message": null,
+      "age": 22,
+      "name": "First Buddy",
+      "address": "University Center",
+      "phone_number": "613 426 8485",
+      "over18": false
+    },
+    {
+      "message": null,
+      "age": 22,
+      "name": "Second Buddy",
+      "address": "University Center",
+      "phone_number": "613 831 3161",
+      "over18": false
+    },
+    {
+      "message": null,
+      "age": 22,
+      "name": "3 Buddy",
+      "address": "University Center",
+      "phone_number": "613 426 8485",
+      "over18": false
+    },
+    {
+      "message": null,
+      "age": 22,
+      "name": "4 Buddy",
+      "address": "University Center",
+      "phone_number": "613 426 8485",
+      "over18": false
+    },
+    {
+      "message": null,
+      "age": 22,
+      "name": "5 Buddy",
+      "address": "University Center",
+      "phone_number": "613 426 8485",
+      "over18": false
+    }
+  ],
+
+  "id": 1
+
+}
+
+<> 2020-01-31T050908.200.json
+
+###
+
+DELETE http://localhost:8080/address-books/1/buddyInfo/273
+Content-Type: application/json
+
+###
+
+DELETE http://localhost:8080/address-books/1/buddyInfo/274
+Content-Type: application/json
+
+###
+
+POST http://localhost:8080/address-books/?id=1
+Content-Type: application/json
+
+{
+
+  "buddyInfos": [
+    {
+      "message": null,
+      "age": 22,
+      "name": "First Buddy",
+      "address": "University Center",
+      "phone_number": "613 426 8485",
+      "over18": false
+    },
+    {
+      "message": null,
+      "age": 22,
+      "name": "Second Buddy",
+      "address": "University Center",
+      "phone_number": "613 831 3161",
+      "over18": false
+    },
+    {
+      "message": null,
+      "age": 22,
+      "name": "3 Buddy",
+      "address": "University Center",
+      "phone_number": "613 426 8485",
+      "over18": false
+    },
+    {
+      "message": null,
+      "age": 22,
+      "name": "4 Buddy",
+      "address": "University Center",
+      "phone_number": "613 426 8485",
+      "over18": false
+    },
+    {
+      "message": null,
+      "age": 22,
+      "name": "5 Buddy",
+      "address": "University Center",
+      "phone_number": "613 426 8485",
+      "over18": false
+    }
+  ],
+
+  "id": 1
+
+}
+
+<> 2020-01-31T050850.200.json
+
+###
+
+DELETE http://localhost:8080/address-books/1/buddyInfo/268
+Content-Type: application/json
+
+###
+
+DELETE http://localhost:8080/address-books/1/buddyInfo/269
+Content-Type: application/json
+
+###
+
+POST http://localhost:8080/address-books/?id=1
+Content-Type: application/json
+
+{
+
+  "buddyInfos": [
+    {
+      "message": null,
+      "age": 22,
+      "name": "First Buddy",
+      "address": "University Center",
+      "phone_number": "613 426 8485",
+      "over18": false
+    },
+    {
+      "message": null,
+      "age": 22,
+      "name": "Second Buddy",
+      "address": "University Center",
+      "phone_number": "613 831 3161",
+      "over18": false
+    },
+    {
+      "message": null,
+      "age": 22,
+      "name": "3 Buddy",
+      "address": "University Center",
+      "phone_number": "613 426 8485",
+      "over18": false
+    },
+    {
+      "message": null,
+      "age": 22,
+      "name": "4 Buddy",
+      "address": "University Center",
+      "phone_number": "613 426 8485",
+      "over18": false
+    },
+    {
+      "message": null,
+      "age": 22,
+      "name": "5 Buddy",
+      "address": "University Center",
+      "phone_number": "613 426 8485",
+      "over18": false
+    }
+  ],
+
+  "id": 1
+
+}
+
+<> 2020-01-31T050828.200.json
+
+###
+
+DELETE http://localhost:8080/address-books/1/buddyInfo/265
+Content-Type: application/json
+
+<> 2020-01-31T050824.500.json
+
+###
+
+DELETE http://localhost:8080/address-books/1/buddyInfo/261
+Content-Type: application/json
+
+###
+
+DELETE http://localhost:8080/address-books/1/buddyInfo/262
+Content-Type: application/json
+
+###
+
+DELETE http://localhost:8080/address-books/1/buddyInfo/263
+Content-Type: application/json
+
+###
+
+DELETE http://localhost:8080/address-books/1/buddyInfo/264
+Content-Type: application/json
+
+###
+
+DELETE http://localhost:8080/address-books/1/buddyInfo/265
+Content-Type: application/json
+
+<> 2020-01-31T050735.500.json
+
+###
+
+DELETE http://localhost:8080/address-books/1/buddyInfo/262
+Content-Type: application/json
+
+<> 2020-01-31T050730.500.json
+
+###
+
+DELETE http://localhost:8080/address-books/1/buddyInfo/263
+Content-Type: application/json
+
+<> 2020-01-31T050725.500.json
+
+###
+
+POST http://localhost:8080/address-books/?id=1
+Content-Type: application/json
+
+{
+
+  "buddyInfos": [
+    {
+      "message": null,
+      "age": 22,
+      "name": "First Buddy",
+      "address": "University Center",
+      "phone_number": "613 426 8485",
+      "over18": false
+    },
+    {
+      "message": null,
+      "age": 22,
+      "name": "Second Buddy",
+      "address": "University Center",
+      "phone_number": "613 831 3161",
+      "over18": false
+    },
+    {
+      "message": null,
+      "age": 22,
+      "name": "3 Buddy",
+      "address": "University Center",
+      "phone_number": "613 426 8485",
+      "over18": false
+    },
+    {
+      "message": null,
+      "age": 22,
+      "name": "4 Buddy",
+      "address": "University Center",
+      "phone_number": "613 426 8485",
+      "over18": false
+    },
+    {
+      "message": null,
+      "age": 22,
+      "name": "5 Buddy",
+      "address": "University Center",
+      "phone_number": "613 426 8485",
+      "over18": false
+    }
+  ],
+
+  "id": 1
+
+}
+
+<> 2020-01-31T050712.200.json
+
+###
+
+POST http://localhost:8080/address-books/?id=1
+Content-Type: application/json
+
+{
+
+  "buddyInfos": [
+    {
+      "message": null,
+      "age": 22,
+      "name": "First Buddy",
+      "address": "University Center",
+      "phone_number": "613 426 8485",
+      "over18": false
+    },
+    {
+      "message": null,
+      "age": 22,
+      "name": "Second Buddy",
+      "address": "University Center",
+      "phone_number": "613 831 3161",
+      "over18": false
+    },
+    {
+      "message": null,
+      "age": 22,
+      "name": "First Buddy",
+      "address": "University Center",
+      "phone_number": "613 426 8485",
+      "over18": false
+    }
+  ],
+
+  "id": 1
+
+}
+
+<> 2020-01-31T050646.200.json
+
+###
+
+DELETE http://localhost:8080/address-books/1/buddyInfo/256
+Content-Type: application/json
+
+###
+
+POST http://localhost:8080/address-books/?id=1
+Content-Type: application/json
+
+{
+
+  "buddyInfos": [
+    {
+      "message": null,
+      "age": 22,
+      "name": "First Buddy",
+      "address": "University Center",
+      "phone_number": "613 426 8485",
+      "over18": false
+    },
+    {
+      "message": null,
+      "age": 22,
+      "name": "Second Buddy",
+      "address": "University Center",
+      "phone_number": "613 831 3161",
+      "over18": false
+    },
+    {
+      "message": null,
+      "age": 22,
+      "name": "First Buddy",
+      "address": "University Center",
+      "phone_number": "613 426 8485",
+      "over18": false
+    }
+  ],
+
+  "id": 1
+
+}
+
+<> 2020-01-31T050624.200.json
+
+###
+
+DELETE http://localhost:8080/address-books/1/buddyInfo/254
+Content-Type: application/json
+
+<> 2020-01-31T050618.500.json
+
+###
+
+DELETE http://localhost:8080/address-books/1/buddyInfo/253
+Content-Type: application/json
+
+###
+
+POST http://localhost:8080/address-books/?id=1
+Content-Type: application/json
+
+{
+
+  "buddyInfos": [
+    {
+      "message": null,
+      "age": 22,
+      "name": "First Buddy",
+      "address": "University Center",
+      "phone_number": "613 426 8485",
+      "over18": false
+    },
+    {
+      "message": null,
+      "age": 22,
+      "name": "Second Buddy",
+      "address": "University Center",
+      "phone_number": "613 831 3161",
+      "over18": false
+    },
+    {
+      "message": null,
+      "age": 22,
+      "name": "First Buddy",
+      "address": "University Center",
+      "phone_number": "613 426 8485",
+      "over18": false
+    }
+  ],
+
+  "id": 1
+
+}
+
+<> 2020-01-31T050559.200.json
+
+###
+
+DELETE http://localhost:8080/address-books/1/buddyInfo/205
+Content-Type: application/json
+
+<> 2020-01-31T050537.500.json
+
+###
+
+POST http://localhost:8080/address-books/?id=1
+Content-Type: application/json
+
+{
+
+  "buddyInfos": [
+    {
+      "message": null,
+      "age": 22,
+      "name": "First Buddy",
+      "address": "University Center",
+      "phone_number": "613 426 8485",
+      "over18": false
+    },
+    {
+      "message": null,
+      "age": 22,
+      "name": "Second Buddy",
+      "address": "University Center",
+      "phone_number": "613 831 3161",
+      "over18": false
+    },
+    {
+      "message": null,
+      "age": 22,
+      "name": "First Buddy",
+      "address": "University Center",
+      "phone_number": "613 426 8485",
+      "over18": false
+    }
+  ],
+
+  "id": 1
+
+}
+
+<> 2020-01-31T050523.200.json
+
+###
+
+DELETE http://localhost:8080/address-books/1/buddyInfo/202
+Content-Type: application/json
+
+<> 2020-01-31T050518.500.json
+
+###
+
+POST http://localhost:8080/address-books/?id=1
+Content-Type: application/json
+
+{
+
+  "buddyInfos": [
+    {
+      "message": null,
+      "age": 22,
+      "name": "First Buddy",
+      "address": "University Center",
+      "phone_number": "613 426 8485",
+      "over18": false
+    },
+    {
+      "message": null,
+      "age": 22,
+      "name": "Second Buddy",
+      "address": "University Center",
+      "phone_number": "613 831 3161",
+      "over18": false
+    },
+    {
+      "message": null,
+      "age": 22,
+      "name": "First Buddy",
+      "address": "University Center",
+      "phone_number": "613 426 8485",
+      "over18": false
+    }
+  ],
+
+  "id": 1
+
+}
+
+<> 2020-01-31T050420.200.json
+
+###
+
+DELETE http://localhost:8080/address-books/1/buddyInfo/105
+Content-Type: application/json
+
+###
+
+DELETE http://localhost:8080/address-books/1/buddyInfo/105
+Content-Type: application/json
+
+<> 2020-01-31T050236.500.json
+
+###
+
+POST http://localhost:8080/address-books/?id=1
+Content-Type: application/json
+
+{
+
+  "buddyInfos": [
+    {
+      "message": null,
+      "age": 22,
+      "name": "First Buddy",
+      "address": "University Center",
+      "phone_number": "613 426 8485",
+      "over18": false
+    },
+    {
+      "message": null,
+      "age": 22,
+      "name": "Second Buddy",
+      "address": "University Center",
+      "phone_number": "613 831 3161",
+      "over18": false
+    },
+    {
+      "message": null,
+      "age": 22,
+      "name": "First Buddy",
+      "address": "University Center",
+      "phone_number": "613 426 8485",
+      "over18": false
+    }
+  ],
+
+  "id": 1
+
+}
+
+<> 2020-01-31T050228.200.json
+
+###
+
+DELETE http://localhost:8080/address-books/1/buddyInfo/104
+Content-Type: application/json
+
+<> 2020-01-31T050218.500.json
+
+###
+
+DELETE http://localhost:8080/address-books/1/buddyInfo/103
+Content-Type: application/json
+
+###
+
+POST http://localhost:8080/address-books/?id=1
+Content-Type: application/json
+
+{
+
+  "buddyInfos": [
+    {
+      "message": null,
+      "age": 22,
+      "name": "First Buddy",
+      "address": "University Center",
+      "phone_number": "613 426 8485",
+      "over18": false
+    },
+    {
+      "message": null,
+      "age": 22,
+      "name": "Second Buddy",
+      "address": "University Center",
+      "phone_number": "613 831 3161",
+      "over18": false
+    },
+    {
+      "message": null,
+      "age": 22,
+      "name": "First Buddy",
+      "address": "University Center",
+      "phone_number": "613 426 8485",
+      "over18": false
+    }
+  ],
+
+  "id": 1
+
+}
+
+<> 2020-01-31T050149.200.json
+
+###
+
+DELETE http://localhost:8080/address-books/1/buddyInfo/63
+Content-Type: application/json
+
+<> 2020-01-31T050034.500.json
+
+###
+
+DELETE http://localhost:8080/address-books/2/buddyInfo/60
+Content-Type: application/json
+
+<> 2020-01-31T045821.500.json
+
+###
+
+DELETE http://localhost:8080/address-books/1/buddyInfo/65
+Content-Type: application/json
+
+<> 2020-01-31T045632.500.json
+
+###
+
+DELETE http://localhost:8080/address-books/1/buddyInfo/65
+Content-Type: application/json
+
+<> 2020-01-31T045610.500.json
+
+###
+
+DELETE http://localhost:8080/address-books/2/buddyInfo/58
+Content-Type: application/json
+
+<> 2020-01-31T045456.500.json
+
+###
+
+DELETE http://localhost:8080/address-books/2/buddyInfo/58
+Content-Type: application/json
+
+<> 2020-01-31T045432.500.json
+
+###
+
+POST http://localhost:8080/address-books/?id=1
+Content-Type: application/json
+
+{
+
+  "buddyInfos": [
+    {
+      "message": null,
+      "age": 22,
+      "name": "First Buddy",
+      "address": "University Center",
+      "phone_number": "613 426 8485",
+      "over18": false
+    },
+    {
+      "message": null,
+      "age": 22,
+      "name": "Second Buddy",
+      "address": "University Center",
+      "phone_number": "613 831 3161",
+      "over18": false
+    },
+    {
+      "message": null,
+      "age": 22,
+      "name": "First Buddy",
+      "address": "University Center",
+      "phone_number": "613 426 8485",
+      "over18": false
+    }
+  ],
+
+  "id": 1
+
+}
+
+<> 2020-01-31T045327.200.json
+
+###
+
+POST http://localhost:8080/address-books/?id=1
+Content-Type: application/json
+
+{
+
+  "buddyInfos": [
+    {
+      "message": null,
+      "age": 22,
+      "name": "First Buddy",
+      "address": "University Center",
+      "phone_number": "613 426 8485",
+      "over18": false
+    },
+    {
+      "message": null,
+      "age": 22,
+      "name": "Second Buddy",
+      "address": "University Center",
+      "phone_number": "613 831 3161",
+      "over18": false
+    }
+  ],
+
+  "id": 1
+
+}
+
+<> 2020-01-31T045309.200.json
+
+###
+
+POST http://localhost:8080/address-books/1
+Content-Type: application/json
+
+{
+
+  "buddyInfos": [
+    {
+      "message": null,
+      "age": 22,
+      "name": "First Buddy",
+      "address": "University Center",
+      "phone_number": "613 426 8485",
+      "over18": false
+    },
+    {
+      "message": null,
+      "age": 22,
+      "name": "Second Buddy",
+      "address": "University Center",
+      "phone_number": "613 831 3161",
+      "over18": false
+    }
+  ],
+
+  "id": 1
+
+}
+
+<> 2020-01-31T045301.404.json
+
+###
+
+POST http://localhost:8080/address-books/1/buddyInfos
+Content-Type: application/json
+
+{
+
+  "buddyInfos": [
+    {
+      "message": null,
+      "age": 22,
+      "name": "First Buddy",
+      "address": "University Center",
+      "phone_number": "613 426 8485",
+      "over18": false
+    },
+    {
+      "message": null,
+      "age": 22,
+      "name": "Second Buddy",
+      "address": "University Center",
+      "phone_number": "613 831 3161",
+      "over18": false
+    }
+  ],
+
+  "id": 1
+
+}
+
+<> 2020-01-31T045254.404.json
+
+###
+
+DELETE http://localhost:8080/address-books/2/buddyInfo/60
+Content-Type: application/json
+
+<> 2020-01-31T045244.500.json
+
+###
+
+DELETE http://localhost:8080/address-books/2/buddyInfo/60
+Content-Type: application/json
+
+<> 2020-01-31T045228.500.json
+
+###
+
