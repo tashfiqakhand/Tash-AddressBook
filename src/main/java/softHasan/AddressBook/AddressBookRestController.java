@@ -27,6 +27,7 @@ public class AddressBookRestController {
         addressBookRepository.save(addressBook);
         return addressBook;
     }
+
     //We are doing a get to retrieve the buddies saved on the addressbook
     @RequestMapping(path="", method = RequestMethod.GET)
     public List<AddressBook> retrieveAll() {
